@@ -1,0 +1,3 @@
+/home/zp/edge-ai-learning/cpp/day03/cmake_demo/build/CMakeFiles/main.dir
+/home/zp/edge-ai-learning/cpp/day03/cmake_demo/build/CMakeFiles/edit_cache.dir
+/home/zp/edge-ai-learning/cpp/day03/cmake_demo/build/CMakeFiles/rebuild_cache.dir
