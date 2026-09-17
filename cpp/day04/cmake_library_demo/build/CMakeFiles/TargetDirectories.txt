@@ -1,0 +1,4 @@
+/home/zp/edge-ai-learning/cpp/day04/cmake_library_demo/build/CMakeFiles/math_utils.dir
+/home/zp/edge-ai-learning/cpp/day04/cmake_library_demo/build/CMakeFiles/demo.dir
+/home/zp/edge-ai-learning/cpp/day04/cmake_library_demo/build/CMakeFiles/edit_cache.dir
+/home/zp/edge-ai-learning/cpp/day04/cmake_library_demo/build/CMakeFiles/rebuild_cache.dir
